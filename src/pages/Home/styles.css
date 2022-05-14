@@ -1,0 +1,15 @@
+.app_Body { 
+    margin: 2rem;
+    padding: 2rem;
+    display: flex;
+    align-items: stretch;
+    flex-direction: column;
+}
+ #generateButton {
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+}
+
+ body {
+     background-color: aliceblue;
+ }
